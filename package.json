@@ -1,0 +1,24 @@
+{
+  "name": "irys-eth-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@irys/js": "^0.0.1",
+    "@irys/sdk": "^0.2.11",
+    "@irys/upload": "^0.0.14",
+    "@irys/upload-ethereum": "^0.0.14",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "file-type": "^20.0.1",
+    "ipfs-only-hash": "^4.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
