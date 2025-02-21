@@ -8,11 +8,11 @@
 **The chain is EVM compatible so you can use all standard EVM tooling including Metamask. The network also has custom endpoints for all datachain related activity.**
 
 **- Chain info :**
-    - Ticker: IRYS
-    - Atomic unit: mIRYS (mini IRYS)
-    - Decimals: 18
-    - Chain ID: 1270
-    - EVM compatible JSON-RPC URL: https://testnet-rpc.irys.xyz/v1/execution-rpc
+- Ticker: IRYS
+- Atomic unit: mIRYS (mini IRYS)
+- Decimals: 18
+- Chain ID: 1270
+- EVM compatible JSON-RPC URL: https://testnet-rpc.irys.xyz/v1/execution-rpc
 
 **Complete Feature :**
 1. Connecting to the testnet
