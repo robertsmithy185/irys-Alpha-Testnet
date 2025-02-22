@@ -7,7 +7,7 @@ const setupIrysClient = async () => {
 
   // 2. Private Key Ethereum (ganti dengan private key Anda sendiri)
   const privateKey =
-    "0x638a2b4f6617ecee17643177de33ade15c3e81a4d35175c93b9fd2403be06cc8";
+    "";
 
   try {
     // 3. Mendapatkan alamat Irys dari private key
